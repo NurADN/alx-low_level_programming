@@ -1,1 +1,1 @@
-hello world
+pointers arrays strings 
